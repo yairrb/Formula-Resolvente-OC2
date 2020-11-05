@@ -13,3 +13,30 @@ punto flotante o no.
 - b 4ac 0, ∀ a, , ε R
 2 − ≥ b c
 - a > 0, a ε R
+
+### Sobre el programa:
+   en la carpeta **resolvente** se encuentras los files necesarios para ejecutar nuestro programa. Ademas, ya tenemos generado el ejecutable **main** para poder utilizar el programa.
+
+   El programa solicita al usuario que ingrese los valores necesarios para resolver la formula resolvente, como vemos a continuacion:
+   ![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/ejecucion.png)
+
+
+
+#### Cómo Ejecutar el programa:
+   Para ejecutar el programa solo debemos ejecutar el file **main** que se encuentra en la carpeta **resolvente** 
+    
+    desde la consola podemos ejecutarlo de la siguiente manera:
+   ![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/ejecutar-main.png)
+
+#### Comandos para compilar:
+   Para compilar nuestro programa y linkear C con NASM debemos utilizar los siguientes comandos
+      1. primero utilizamos el comando
+      **sudo nasm -f elf32 resolvente.asm -o resolvente.o**
+      2. luego linkeamos nasm con C
+      **sudo gcc -m32 formulaResolvente.c resolvente.o -main**
+      3.ejecutamos el programa
+      **./main** (este comando comenzara la ejecucion del programa)
+      
+   ![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/compilacion.png)
+  
+    
