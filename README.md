@@ -13,6 +13,7 @@ punto flotante o no.
 - b 4ac 0, ∀ a, , ε R
 2 − ≥ b c
 - a > 0, a ε R
+
 El codigo se encuentra [Aqui.](https://github.com/yairrb/Formula-Resolvente-OC2/tree/main/resolvente)
 
 ### Sobre el programa:
