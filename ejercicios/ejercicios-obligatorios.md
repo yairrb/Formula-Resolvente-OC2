@@ -25,3 +25,27 @@
        * dirección física = 4100
     D. La dirección 4000 para el segmento de stack.
        * se genera un trap
+## Ejercicio nro 7
+### Dado el siguiente esquema, indicar el estado final de la cache TLB y tabla de páginas. También indicar la cantidad de rafagas utilizadas en cada secuencia.
+### Las páginas requeridas son las siguientes:
+        A. Pagina 1, Pagina 2, Pagina 6, Pagina 3, Pagina 2, Pagina 1, Pagina 4, Pagina 5
+        B. Pagina 6, Pagina 1, Pagina 3, Pagina 2, Pagina 4, Pagina 5, Pagina 4, Pagina 6
+### A)
+La cantidad de rafagas es de **70 rafagas**
+Estado de la TLB
+
+![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/tbl-a.png)
+
+Estado de la Tabla de Paginas
+
+![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/tabla-paginas-a.png)
+
+### b)
+La cantidad de rafagas es de **63 rafagas**
+Estado de la TLB
+
+![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/tlb-b.png)
+
+Estado de la Tabla de Paginas
+
+![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/tabla-paginas-b.png)
