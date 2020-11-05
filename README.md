@@ -18,6 +18,7 @@ punto flotante o no.
    en la carpeta **resolvente** se encuentras los files necesarios para ejecutar nuestro programa. Ademas, ya tenemos generado el ejecutable **main** para poder utilizar el programa.
 
    El programa solicita al usuario que ingrese los valores necesarios para resolver la formula resolvente, como vemos a continuacion:
+   
    ![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/ejecucion.png)
 
 
