@@ -15,15 +15,16 @@ punto flotante o no.
 - a > 0, a ε R
 
 ### Sobre el programa:
-   en la carpeta **resolvente** se encuentras los files necesarios para ejecutar nuestro programa. Ademas, ya tenemos generado el ejecutable **main** para poder utilizar el programa.
+   en la carpeta [**resolvente**](https://github.com/yairrb/Formula-Resolvente-OC2/tree/main/resolvente) se encuentras los files necesarios para ejecutar nuestro programa. Ademas, ya tenemos generado el ejecutable **main** para poder utilizar el programa.
 
    El programa solicita al usuario que ingrese los valores necesarios para resolver la formula resolvente, como vemos a continuacion:
+   
    ![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/ejecucion.png)
 
 
 
 #### Cómo Ejecutar el programa:
-   Para ejecutar el programa solo debemos ejecutar el file **main** que se encuentra en la carpeta **resolvente** 
+   Para ejecutar el programa solo debemos ejecutar el file **main** que se encuentra en la carpeta [**resolvente**](https://github.com/yairrb/Formula-Resolvente-OC2/tree/main/resolvente)
     
     desde la consola podemos ejecutarlo de la siguiente manera:
    ![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/ejecutar-main.png)
@@ -38,5 +39,13 @@ punto flotante o no.
       **./main** (este comando comenzara la ejecucion del programa)
       
    ![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/compilacion.png)
+  
+  
+  # Ejericicios Obligatorios
+  ## Gestion de memoria
+  Los ejercicios obligatorios de gestion de memoria se encuantran en otroa archivo .md [Aqui](https://github.com/yairrb/Formula-Resolvente-OC2/tree/main/ejercicios)
+  
+  ## Practica FPU
+  Escriba una función en assembler IA-32 que reciba un puntero a un vector de números de punto flotante de precisión simple y calcule la suma.
   
     
