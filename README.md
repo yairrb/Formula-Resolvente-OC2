@@ -15,7 +15,7 @@ punto flotante o no.
 - a > 0, a ε R
 
 ### Sobre el programa:
-   en la carpeta **resolvente** se encuentras los files necesarios para ejecutar nuestro programa. Ademas, ya tenemos generado el ejecutable **main** para poder utilizar el programa.
+   en la carpeta [**resolvente**](https://github.com/yairrb/Formula-Resolvente-OC2/tree/main/resolvente) se encuentras los files necesarios para ejecutar nuestro programa. Ademas, ya tenemos generado el ejecutable **main** para poder utilizar el programa.
 
    El programa solicita al usuario que ingrese los valores necesarios para resolver la formula resolvente, como vemos a continuacion:
    
@@ -24,7 +24,7 @@ punto flotante o no.
 
 
 #### Cómo Ejecutar el programa:
-   Para ejecutar el programa solo debemos ejecutar el file **main** que se encuentra en la carpeta **resolvente** 
+   Para ejecutar el programa solo debemos ejecutar el file **main** que se encuentra en la carpeta [**resolvente**](https://github.com/yairrb/Formula-Resolvente-OC2/tree/main/resolvente)
     
     desde la consola podemos ejecutarlo de la siguiente manera:
    ![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/ejecutar-main.png)
