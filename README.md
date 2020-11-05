@@ -44,4 +44,8 @@ punto flotante o no.
   # Ejericicios Obligatorios
   ## Gestion de memoria
   Los ejercicios obligatorios de gestion de memoria se encuantran en otroa archivo .md [Aqui](https://github.com/yairrb/Formula-Resolvente-OC2/tree/main/ejercicios)
+  
+  ## Practica FPU
+  Escriba una función en assembler IA-32 que reciba un puntero a un vector de números de punto flotante de precisión simple y calcule la suma.
+  
     
