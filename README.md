@@ -40,4 +40,8 @@ punto flotante o no.
       
    ![alt text](https://github.com/yairrb/Formula-Resolvente-OC2/blob/main/img/compilacion.png)
   
+  
+  # Ejericicios Obligatorios
+  ## Gestion de memoria
+  Los ejercicios obligatorios de gestion de memoria se encuantran en otroa archivo .md [Aqui](https://github.com/yairrb/Formula-Resolvente-OC2/tree/main/ejercicios)
     
